@@ -15,10 +15,8 @@
     "url": "git+https://github.com/hubvisory-source/typescript-http-cf-boilerplate.git"
   },
   "keywords": [
-    "Cloud",
-    "Functions",
+    "Cloud Functions",
     "Typescript",
-    "HTTP",
     "Jest"
   ],
   "author": "Guillaume Mantopoulos",
